@@ -4,12 +4,9 @@
 pip install requests
 git clone https://github.com/mapelvader/telspam
 cd telspam
-python3 bot.py
-```
-### UNTUK MENJALANKAN
-```
-cd telespam
-python3 bot.py
+ls
+cd cli
+python3 main.py
 ```
 
 Program yang saya buat di khususkan untuk melakukan SPAM pada penipu yang mencoba memberikan web palsu seperti pada gambar di bawah ini :
