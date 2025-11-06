@@ -1,4 +1,17 @@
 
+### Copy Tools 
+```
+pip install requests
+git clone https://github.com/mapelvader/telspam
+cd telspam
+python3 bot.py
+```
+### UNTUK MENJALANKAN
+```
+cd telespam
+python3 bot.py
+```
+
 Program yang saya buat di khususkan untuk melakukan SPAM pada penipu yang mencoba memberikan web palsu seperti pada gambar di bawah ini :
 
 ## API Telegram Penipu
@@ -7,9 +20,6 @@ Saya tahu web di atas palsu maka saya mencoba melakukan inspect element apakah a
 
 Program yang saya buat terdapat dua versi yaitu versi command line (CLI) dan web (GUI) menggunakan JavaScript. Pada CLI menggunakan Python, jadi sistem komputer Anda perlu mengunduh dan menginstall dulu bahasa pemrograman Python. Anda perlu mengunduh Library tambahan pada Python yaitu :
 
-```
-pip install requests
-```
 Copy dan paste pada terminal Anda. Untuk penggunaan nya seperti ini :
 
 ```
