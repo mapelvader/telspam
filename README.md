@@ -24,7 +24,7 @@ python main.py -t <token telegram si penipu> -c <chat id si penipu>
 ```
 hasil
 ```
-python main.py -t 6885075668:AAHo5FR5xWffNA7oXu_TS7jHnk41AsNyXcc -c 7136411148
+python main.py -t 7759385355:AAEMrRgzjve1HVlsCOOPWLwhtblnlLXzDBw -c 1002628985371
 ```
 
 Jika Anda tidak familiar dengan CLI, Anda bisa menggunakan versi GUI. Anda bisa masuk folder **web** dan klik file **index.html** nya lalu Anda bisa mencoba nya langsung. Pastikan koneksi internet menyala sebelum menggunakan program ini.
